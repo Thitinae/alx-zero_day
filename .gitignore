@@ -1,0 +1,5 @@
+# Ignore Emacs-generated files
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
